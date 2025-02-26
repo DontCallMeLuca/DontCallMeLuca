@@ -1,13 +1,12 @@
 <h1>✨ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h1>
 
-Hello! My name is Luca. I was born in Portugal, grew up in Italy, and now I live in Amsterdam.
-</p>
+𝙃𝙚𝙡𝙡𝙤! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙇𝙪𝙘𝙖. 𝙄 𝙬𝙖𝙨 𝙗𝙤𝙧𝙣 𝙞𝙣 𝙋𝙤𝙧𝙩𝙪𝙜𝙖𝙡, 𝙜𝙧𝙚𝙬 𝙪𝙥 𝙞𝙣 𝙄𝙩𝙖𝙡𝙮, 𝙖𝙣𝙙 𝙣𝙤𝙬 𝙄 𝙡𝙞𝙫𝙚 𝙞𝙣 𝘼𝙢𝙨𝙩𝙚𝙧𝙙𝙖𝙢.
 
-I'm currently a student here, studying programming extensively.
+𝙄'𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙖 𝙨𝙩𝙪𝙙𝙚𝙣𝙩 𝙝𝙚𝙧𝙚, 𝙨𝙩𝙪𝙙𝙮𝙞𝙣𝙜 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙚𝙭𝙩𝙚𝙣𝙨𝙞𝙫𝙚𝙡𝙮.
 
-I'm extremely passionate about the field of programming and have extensive experience in various areas, including low-level programming, security, AI, and more.
+𝙄'𝙢 𝙚𝙭𝙩𝙧𝙚𝙢𝙚𝙡𝙮 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙩𝙝𝙚 𝙛𝙞𝙚𝙡𝙙 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙖𝙣𝙙 𝙝𝙖𝙫𝙚 𝙚𝙭𝙩𝙚𝙣𝙨𝙞𝙫𝙚 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚 𝙞𝙣 𝙫𝙖𝙧𝙞𝙤𝙪𝙨 𝙖𝙧𝙚𝙖𝙨, 𝙞𝙣𝙘𝙡𝙪𝙙𝙞𝙣𝙜 𝙡𝙤𝙬-𝙡𝙚𝙫𝙚𝙡 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜, 𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝘼𝙄, 𝙖𝙣𝙙 𝙢𝙤𝙧𝙚.
 
-My GitHub is still a work in progress, but I have many exciting projects in the pipeline. Expect much more to come soon!
+𝙈𝙮 𝙂𝙞𝙩𝙃𝙪𝙗 𝙞𝙨 𝙨𝙩𝙞𝙡𝙡 𝙖 𝙬𝙤𝙧𝙠 𝙞𝙣 𝙥𝙧𝙤𝙜𝙧𝙚𝙨𝙨, 𝙗𝙪𝙩 𝙄 𝙝𝙖𝙫𝙚 𝙢𝙖𝙣𝙮 𝙚𝙭𝙘𝙞𝙩𝙞𝙣𝙜 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙞𝙣 𝙩𝙝𝙚 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚. 𝙀𝙭𝙥𝙚𝙘𝙩 𝙢𝙪𝙘𝙝 𝙢𝙤𝙧𝙚 𝙩𝙤 𝙘𝙤𝙢𝙚 𝙨𝙤𝙤𝙣!
 
 <h1>💻 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h1>
 
