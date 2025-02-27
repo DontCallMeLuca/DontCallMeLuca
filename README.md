@@ -92,7 +92,7 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontCallMeLuca&layout=compact&theme=dark&count_private=false" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontCallMeLuca&layout=compact&theme=dark&include_all_commits=false&count_private=false" />
 
 ![](https://github-contributor-stats.vercel.app/api?username=DontCallMeLuca&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
