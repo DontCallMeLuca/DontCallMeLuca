@@ -8,6 +8,8 @@
 
 𝙈𝙮 𝙂𝙞𝙩𝙃𝙪𝙗 𝙞𝙨 𝙨𝙩𝙞𝙡𝙡 𝙖 𝙬𝙤𝙧𝙠 𝙞𝙣 𝙥𝙧𝙤𝙜𝙧𝙚𝙨𝙨, 𝙗𝙪𝙩 𝙄 𝙝𝙖𝙫𝙚 𝙢𝙖𝙣𝙮 𝙚𝙭𝙘𝙞𝙩𝙞𝙣𝙜 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙞𝙣 𝙩𝙝𝙚 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚. 𝙀𝙭𝙥𝙚𝙘𝙩 𝙢𝙪𝙘𝙝 𝙢𝙤𝙧𝙚 𝙩𝙤 𝙘𝙤𝙢𝙚 𝙨𝙤𝙤𝙣!
 
+![](https://github-profile-trophy.vercel.app/?username=DontCallMeLuca&theme=onestar&rank=-B,-C,-?)
+
 <h1>💻 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h1>
 
 ### 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚𝙨
@@ -92,8 +94,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontCallMeLuca&layout=compact&theme=dark&include_all_commits=false&count_private=false" />
-
-![](https://github-contributor-stats.vercel.app/api?username=DontCallMeLuca&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontCallMeLuca&layout=compact&theme=dark&include_all_commits=false&count_private=false" />
 
 <h6><em>⭐ Fun Fact: I'm just as passionate and skilled in music as I am in programming!</em></h6>
