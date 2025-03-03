@@ -1,6 +1,6 @@
 <div style="position: relative; margin-bottom: 10px;">
 	<h1 style="margin-bottom: 0;">✨ 𝘼𝙗𝙤𝙪𝙩 𝙈𝙚</h1>
-	<img style="position: absolute; top: 0; right: 0;" src="https://komarev.com/ghpvc/?username=DontCallMeLuca&color=brightgreen&style=for-the-badge&label=VISITORS&base=24&abbreviated=true" alt="" />
+	<img style="position: absolute; top: 0; right: 0;" src="https://komarev.com/ghpvc/?username=DontCallMeLuca&color=brightgreen&style=for-the-badge&label=VISITORS&abbreviated=true" alt="" />
 </div>
 
 𝙃𝙚𝙡𝙡𝙤! 𝙈𝙮 𝙣𝙖𝙢𝙚 𝙞𝙨 𝙇𝙪𝙘𝙖. 𝙄 𝙬𝙖𝙨 𝙗𝙤𝙧𝙣 𝙞𝙣 𝙋𝙤𝙧𝙩𝙪𝙜𝙖𝙡, 𝙜𝙧𝙚𝙬 𝙪𝙥 𝙞𝙣 𝙄𝙩𝙖𝙡𝙮, 𝙖𝙣𝙙 𝙣𝙤𝙬 𝙄 𝙡𝙞𝙫𝙚 𝙞𝙣 𝘼𝙢𝙨𝙩𝙚𝙧𝙙𝙖𝙢.
