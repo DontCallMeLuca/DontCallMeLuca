@@ -8,7 +8,7 @@
 
 𝙈𝙮 𝙂𝙞𝙩𝙃𝙪𝙗 𝙞𝙨 𝙨𝙩𝙞𝙡𝙡 𝙖 𝙬𝙤𝙧𝙠 𝙞𝙣 𝙥𝙧𝙤𝙜𝙧𝙚𝙨𝙨, 𝙗𝙪𝙩 𝙄 𝙝𝙖𝙫𝙚 𝙢𝙖𝙣𝙮 𝙚𝙭𝙘𝙞𝙩𝙞𝙣𝙜 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙞𝙣 𝙩𝙝𝙚 𝙥𝙞𝙥𝙚𝙡𝙞𝙣𝙚. 𝙀𝙭𝙥𝙚𝙘𝙩 𝙢𝙪𝙘𝙝 𝙢𝙤𝙧𝙚 𝙩𝙤 𝙘𝙤𝙢𝙚 𝙨𝙤𝙤𝙣!
 
-![](https://github-profile-trophy.vercel.app/?username=DontCallMeLuca&theme=onestar&rank=-B,-C,-?)
+![](https://github-profile-trophy.vercel.app/?username=DontCallMeLuca&theme=onestar&rank=-B,-C,-?&no-frame=true&no-bg=true)
 
 <h1>💻 𝙏𝙚𝙘𝙝 𝙎𝙩𝙖𝙘𝙠</h1>
 
