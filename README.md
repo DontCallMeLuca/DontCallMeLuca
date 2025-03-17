@@ -112,7 +112,6 @@
 
 ---
 
-<br>
 <div align="center">
 	<div align="center" valign="middle" width="50%">
 		<h1 id="education">𝙈𝙮 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</h1>
