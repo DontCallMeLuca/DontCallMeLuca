@@ -12,7 +12,8 @@
 
 <br>
 <p align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontCallMeLuca&layout=compact&theme=dark&include_all_commits=false&count_private=false" width="45%" align="center" style="margin-right: 20px;" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontCallMeLuca&layout=compact&theme=dark&include_all_commits=false&count_private=false" width="45%" align="center" />
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<img src="https://github-profile-trophy.vercel.app/?username=DontCallMeLuca&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" />
 </p>
 
@@ -40,7 +41,7 @@
 ![GLSL](https://img.shields.io/badge/GLSL-%23white.svg?style=for-the-badge&logo=opengl&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
-![Cocos2d](https://img.shields.io/badge/cocos2d-%23FCCB31.svg?style=for-the-badge&logo=cocos2d&logoColor=black)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine)
 ![Vulkan API](https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=vulkan&logoColor=white)
 
@@ -90,7 +91,6 @@
 ![GTK](https://img.shields.io/badge/GTK-%23000000.svg?style=for-the-badge&logo=gtk&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23008F95.svg?style=for-the-badge&logo=qt&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
 ## ☁️ 𝘿𝙚𝙫𝙊𝙥𝙨 & 𝙄𝙣𝙛𝙧𝙖𝙨𝙩𝙧𝙪𝙘𝙩𝙪𝙧𝙚
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -127,7 +127,6 @@
 			<h2 id="contact-me">𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚</h2>
 			<a href="mailto:luca.goddijn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" /></a>
 			<a href="https://www.linkedin.com/in/luca-goddijn-7281b1357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" /></a>
-			<a href="https://discordapp.com/users/1186307792777257040"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto" alt="Discord" /></a>
 		</td>
 	</tr>
 </table>
