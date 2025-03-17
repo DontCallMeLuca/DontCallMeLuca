@@ -114,7 +114,7 @@
 
 <div align="center">
 	<div align="center" valign="middle" width="50%">
-		<h2 id="education">𝙈𝙮 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</h2>
+		<h1 id="education">𝙈𝙮 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</h1>
 		<a href="https://www.h-farm.com/en">
 			<img src="https://img.shields.io/badge/-H--Farm-FF0000.svg?style=for-the-badge&logo=hugo&logoColor=white&logoSize=auto" alt="H-Farm" />
 		</a>
@@ -124,7 +124,7 @@
 	</div>
 	&nbsp;&nbsp;
 	<div align="center" valign="middle" width="50%">
-		<h2 id="contact-me">𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚</h2>
+		<h1 id="contact-me">𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚</h1>
 		<a href="mailto:luca.goddijn@gmail.com">
 			<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" />
 		</a>
