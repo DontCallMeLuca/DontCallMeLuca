@@ -122,7 +122,6 @@
 			<img src="https://img.shields.io/badge/-codam-black?style=for-the-badge&logo=42&logoColor=white&logoSize=auto" alt="Codam" />
 		</a>
 	</div>
-	&nbsp;&nbsp;
 	<div align="center" valign="middle" width="50%">
 		<h1 id="contact-me">𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚</h1>
 		<a href="mailto:luca.goddijn@gmail.com">
