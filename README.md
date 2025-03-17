@@ -6,19 +6,15 @@
 
 - 💡 𝙄'𝙢 𝙖 𝙝𝙞𝙜𝙝𝙡𝙮 𝙚𝙣𝙩𝙝𝙪𝙨𝙞𝙖𝙨𝙩𝙞𝙘 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧 𝙬𝙞𝙩𝙝 𝙚𝙭𝙥𝙚𝙧𝙩𝙞𝙨𝙚 𝙞𝙣 𝙡𝙤𝙬-𝙡𝙚𝙫𝙚𝙡, 𝙨𝙚𝙘𝙪𝙧𝙞𝙩𝙮, 𝙜𝙖𝙢𝙚 𝙙𝙚𝙫 & 𝘼𝙄
 
+- ⭐ 𝙊𝙫𝙚𝙧 𝙝𝙖𝙡𝙛 𝙖 𝙙𝙚𝙘𝙖𝙙𝙚 𝙤𝙛 𝙥𝙧𝙤𝙜𝙧𝙖𝙢𝙢𝙞𝙣𝙜 𝙚𝙭𝙥𝙚𝙧𝙞𝙚𝙣𝙘𝙚
+
 - 🛠️ 𝙀𝙭𝙥𝙚𝙘𝙩 𝙢𝙖𝙣𝙮 𝙢𝙤𝙧𝙚 𝙥𝙧𝙤𝙟𝙚𝙘𝙩𝙨 𝙨𝙤𝙤𝙣!
 
 <br>
-<table>
-	<tr>
-		<td>
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontCallMeLuca&layout=compact&theme=dark&include_all_commits=false&count_private=false" />
-		</td>
-		<td>
-			<img src="https://github-profile-trophy.vercel.app/?username=DontCallMeLuca&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2&column=3" />
-		</td>
-	</tr>
-</table>
+<p align="left">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontCallMeLuca&layout=compact&theme=dark&include_all_commits=false&count_private=false" width="45%" align="center" style="margin-right: 20px;" />
+	<img src="https://github-profile-trophy.vercel.app/?username=DontCallMeLuca&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" />
+</p>
 
 <h1>💻 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨</h1>
 
@@ -129,17 +125,9 @@
 		</td>
 		<td align="center" valign="middle" width="50%">
 			<h2 id="contact-me">𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚</h2>
-			<a href="mailto:luca.goddijn@gmail.com">
-				<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" />
-			</a>
-			<a href="https://www.linkedin.com/in/luca-goddijn-7281b1357/">
-				<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" />
-			</a>
-			<a href="https://discordapp.com/users/1186307792777257040">
-				<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto" alt="Discord" />
-			</a>
+			<a href="mailto:luca.goddijn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" /></a>
+			<a href="https://www.linkedin.com/in/luca-goddijn-7281b1357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" /></a>
+			<a href="https://discordapp.com/users/1186307792777257040"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto" alt="Discord" /></a>
 		</td>
 	</tr>
 </table>
-
-<div id="pinned-projects"></div>
