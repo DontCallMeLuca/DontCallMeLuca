@@ -110,27 +110,29 @@
 ![MariaDB](https://img.shields.io/badge/MariaDB-%230D2C43.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-----------------
+---
 
-<table align="center" width="100%">
-	<tr>
-		<td align="center" valign="middle" width="50%">
-			<h2 id="education">𝙈𝙮 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</h2>
-			<a href="https://www.h-farm.com/en">
-				<img src="https://img.shields.io/badge/-H--Farm-FF0000.svg?style=for-the-badge&logo=hugo&logoColor=white&logoSize=auto" alt="H-Farm" />
-			</a>
-			<a href="https://www.codam.nl/">
-				<img src="https://img.shields.io/badge/-codam-black?style=for-the-badge&logo=42&logoColor=white&logoSize=auto" alt="Codam" />
-			</a>
-		</td>
-		<td align="center" valign="middle" width="50%">
-			<h2 id="contact-me">𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚</h2>
-			<a href="mailto:luca.goddijn@gmail.com">
-				<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" />
-			</a>
-			<a href="https://www.linkedin.com/in/luca-goddijn-7281b1357/">
-				<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" />
-			</a>
-		</td>
-	</tr>
-</table>
+<div align="center">
+	<div align="center" valign="middle" width="50%">
+		<h2 id="education">𝙈𝙮 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</h2>
+		<a href="https://www.h-farm.com/en">
+			<img src="https://img.shields.io/badge/-H--Farm-FF0000.svg?style=for-the-badge&logo=hugo&logoColor=white&logoSize=auto" alt="H-Farm" />
+		</a>
+		<a href="https://www.codam.nl/">
+			<img src="https://img.shields.io/badge/-codam-black?style=for-the-badge&logo=42&logoColor=white&logoSize=auto" alt="Codam" />
+		</a>
+	</div>
+	&nbsp;&nbsp;
+	<div align="center" valign="middle" width="50%">
+		<h2 id="contact-me">𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚</h2>
+		<a href="mailto:luca.goddijn@gmail.com">
+			<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" />
+		</a>
+		<a href="https://www.linkedin.com/in/luca-goddijn-7281b1357/">
+			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" />
+		</a>
+		<a href="https://discordapp.com/users/1186307792777257040">
+			<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto" alt="Discord" />
+		</a>
+	</div>
+</div>
