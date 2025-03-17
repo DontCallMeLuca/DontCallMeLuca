@@ -125,8 +125,12 @@
 		</td>
 		<td align="center" valign="middle" width="50%">
 			<h2 id="contact-me">𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚</h2>
-			<a href="mailto:luca.goddijn@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" /></a>
-			<a href="https://www.linkedin.com/in/luca-goddijn-7281b1357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" /></a>
+			<a href="mailto:luca.goddijn@gmail.com">
+				<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" />
+			</a>
+			<a href="https://www.linkedin.com/in/luca-goddijn-7281b1357/">
+				<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" />
+			</a>
 		</td>
 	</tr>
 </table>
