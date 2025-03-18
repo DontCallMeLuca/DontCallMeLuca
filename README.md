@@ -27,6 +27,7 @@
 ![GLSL](https://img.shields.io/badge/GLSL-%23white.svg?style=for-the-badge&logo=opengl&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Cuda](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+![AMD_HIP](https://img.shields.io/badge/HIP-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%230078D7.svg?style=for-the-badge&logo=linux&logoColor=white)
 ![UNIX](https://img.shields.io/badge/Unix-%23FCC624.svg?style=for-the-badge&logo=gnu-bash&logoColor=black)
 ![POSIX](https://img.shields.io/badge/posix-%23185abc.svg?style=for-the-badge&logo=posix&logoColor=white)
