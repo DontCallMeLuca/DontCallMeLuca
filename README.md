@@ -14,7 +14,7 @@
 <p align="left">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DontCallMeLuca&layout=compact&theme=dark&include_all_commits=false&count_private=false" width="45%" align="center" />
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<img src="https://github-profile-trophy.vercel.app/?username=DontCallMeLuca&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" />
+	<img src="https://github-profile-trophy.vercel.app/?username=DontCallMeLuca&theme=radical&rank=-B,-C,-?&no-frame=true&no-bg=true&column=3&row=2" width="45%" align="center" alt="Tophies Might be Rate Limited" />
 </p>
 
 <h1>💻 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨</h1>
