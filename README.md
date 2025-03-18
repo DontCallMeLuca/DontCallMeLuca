@@ -116,22 +116,25 @@
 	<div align="center" valign="middle" width="50%">
 		<h1 id="education">𝙈𝙮 𝙀𝙙𝙪𝙘𝙖𝙩𝙞𝙤𝙣</h1>
 		<a href="https://www.h-farm.com/en">
-			<img src="https://img.shields.io/badge/-H--Farm-FF0000.svg?style=for-the-badge&logo=hugo&logoColor=white&logoSize=auto" alt="H-Farm" />
+			<img src="https://img.shields.io/badge/-H--Farm-FF0000.svg?style=for-the-badge&logo=hugo&logoColor=white&logoSize=auto" alt="H-Farm" width="14.5%" />
 		</a>
 		<a href="https://www.codam.nl/">
-			<img src="https://img.shields.io/badge/-codam-black?style=for-the-badge&logo=42&logoColor=white&logoSize=auto" alt="Codam" />
+			<img src="https://img.shields.io/badge/-codam-black?style=for-the-badge&logo=42&logoColor=white&logoSize=auto" alt="Codam" width="15%" />
 		</a>
 	</div>
 	<div align="center" valign="middle" width="50%">
-		<h1 id="contact-me">𝘾𝙤𝙣𝙩𝙖𝙘𝙩 𝙈𝙚</h1>
+		<h1 id="contact-me">𝙍𝙚𝙖𝙘𝙝 𝙊𝙪𝙩 𝙏𝙤 𝙈𝙚</h1>
 		<a href="mailto:luca.goddijn@gmail.com">
-			<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" />
+			<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoSize=auto" alt="Email" width="14.5%" />
 		</a>
 		<a href="https://www.linkedin.com/in/luca-goddijn-7281b1357/">
-			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" />
+			<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoSize=auto" alt="LinkedIn" width="14.5%" />
 		</a>
 		<a href="https://discordapp.com/users/1186307792777257040">
-			<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto" alt="Discord" />
+			<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&logoSize=auto" alt="Discord" width="17.5%" />
+		</a>
+		<a href="https://steamcommunity.com/id/swagg3rballs/">
+			<img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white&logoSize=auto" alt="Steam" width="14.2%">
 		</a>
 	</div>
 </div>
