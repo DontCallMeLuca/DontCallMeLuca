@@ -85,10 +85,12 @@
 ## 📱 𝙈𝙤𝙗𝙞𝙡𝙚 & 𝘿𝙚𝙨𝙠𝙩𝙤𝙥
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%23A4C639.svg?style=for-the-badge&logo=android&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![React Native](https://img.shields.io/badge/react%20native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![GTK](https://img.shields.io/badge/GTK-%23000000.svg?style=for-the-badge&logo=gtk&logoColor=white)
 ![Qt](https://img.shields.io/badge/Qt-%23008F95.svg?style=for-the-badge&logo=qt&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
